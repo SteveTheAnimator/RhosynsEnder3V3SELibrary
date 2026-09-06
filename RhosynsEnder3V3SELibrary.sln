@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhosynsEnder3V3SELibrary", "RhosynsEnder3V3SELibrary.csproj", "{79AA1A43-431E-4DC1-92DE-043B70AA0CA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RE3V3SETest", "..\RE3V3SETest\RE3V3SETest.csproj", "{5F7DFC6D-87CC-4CE9-9545-28015EF6D286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79AA1A43-431E-4DC1-92DE-043B70AA0CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AA1A43-431E-4DC1-92DE-043B70AA0CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AA1A43-431E-4DC1-92DE-043B70AA0CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AA1A43-431E-4DC1-92DE-043B70AA0CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7DFC6D-87CC-4CE9-9545-28015EF6D286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7DFC6D-87CC-4CE9-9545-28015EF6D286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7DFC6D-87CC-4CE9-9545-28015EF6D286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7DFC6D-87CC-4CE9-9545-28015EF6D286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E88D5DAF-DD5D-457F-AC09-0C2A2276D61A}
+	EndGlobalSection
+EndGlobal
